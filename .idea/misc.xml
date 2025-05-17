@@ -6,6 +6,7 @@
       <list>
         <option value="$PROJECT_DIR$/conta-banco/pom.xml" />
         <option value="$PROJECT_DIR$/controle-fluxo/pom.xml" />
+        <option value="$PROJECT_DIR$/modelagem/pom.xml" />
       </list>
     </option>
   </component>
